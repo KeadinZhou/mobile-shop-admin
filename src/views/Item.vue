@@ -342,6 +342,7 @@
         },
         created() {
             this.getTypeList()
+            this.searchData(1)
         }
     }
 </script>
